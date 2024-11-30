@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/<your-username>/<your-username>/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/<shantanu2024-design>/<shantanu2024-design>/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
