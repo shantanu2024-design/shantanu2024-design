@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is ... shantanu das ... and I'm a ux  designer</h1>
+<h1 align="center">Hi 👋 My name is ... shantanu das ... and I'm a ux  designer</h1>
 
 ###
 
